@@ -7,7 +7,7 @@ requirements = ['numpy>=1', 'tensorflow>=1']
 
 setup(
     name='baakbrothers',
-    version='0.0.0',
+    version='0.0.1',
     url='https://github.com/yukikitayama/baakbrothers',
     author='Yuki Kitayama',
     author_email='yk2797@columbia.edu',
