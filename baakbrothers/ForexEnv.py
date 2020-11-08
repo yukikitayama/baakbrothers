@@ -19,7 +19,7 @@ import numpy as np
 import pickle
 
 
-PATH_01 = '../object/rate_usdjpy.pkl'
+PATH_01 = 'rate_usdjpy.pkl'
 
 
 class ForexEnv:
